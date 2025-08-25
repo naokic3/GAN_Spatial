@@ -1,0 +1,21 @@
+version: 1
+project:
+  id: 9b232c54-1fe6-4a13-98c3-4f588df72c0c
+  title: Graph Network Autoencoder for Spatial Weights
+  keywords: 
+    - Regeneron
+    - Graph Neural Networks
+    - crime
+  authors:
+    - name: Naoki Conning
+      affiliation: Stuyvesant High School
+  github: naokic3/Frontier
+
+
+
+site:
+  template: book-theme
+  options:
+    logo_text: Graph Attention Spatial Weights
+    logo: figures/edens2000.png
+    navigation_depth: 3

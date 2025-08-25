@@ -1,0 +1,11 @@
+format: jb-book
+root: readme # Sets the landing page
+parts:
+  - caption: A Crime Mapping example
+    chapters:
+      - file: docs/crime_paper.md
+        hidden: true
+  - caption: Data Preparation
+    chapters:
+      - file: population_expansion.ipynb
+      
